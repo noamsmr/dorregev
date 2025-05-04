@@ -1,0 +1,5 @@
+
+TODO:
+* Add a few music tracks as a player instead of spotify links.
+* Add a few animations in video players instead of instagram links.
+* Descriptive videos about Noam.
